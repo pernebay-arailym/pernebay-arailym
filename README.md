@@ -5,6 +5,12 @@
 
 - My skills: **Tableau, Excel, Pandas Numpy using Jupyter Notebook**
 
+- My portfolio on Tableau
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a>
+
+My CV:
+<a href="https://docs.google.com/document/d/1mGEb0GVI1szqqPq1fS_6SJYphSwsRxWlvfO7gIIBVeo/edit?usp=sharing" target="blank">Data analyst CV</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arailym-pernebay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arailym-pernebay/" height="30" width="40" /></a>
