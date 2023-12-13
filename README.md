@@ -8,7 +8,7 @@
 - My portfolio on Tableau
 <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a>
 
-My CV:
+- My CV:
 <a href="https://docs.google.com/document/d/1mGEb0GVI1szqqPq1fS_6SJYphSwsRxWlvfO7gIIBVeo/edit?usp=sharing" target="blank">Data analyst CV</a>
 
 <h3 align="left">Connect with me:</h3>
