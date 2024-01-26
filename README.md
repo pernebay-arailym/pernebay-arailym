@@ -8,11 +8,17 @@
 - My portfolio on Tableau
 <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a>
 
-- My projects made by Python:
-<a href="" target="blank"></a>
+- My projects made by Python: 
+<a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank"></a>
+<a href="https://github.com/pernebay-arailym/Project_2_Automated_file_sorter" target="blank"></a>
+<a href="https://github.com/pernebay-arailym/Project_3_WebScraping_HTML" target="blank"></a>
+<a href="https://github.com/pernebay-arailym/Project_4_GameOfLife" target="blank"></a>
+<a href="https://github.com/pernebay-arailym/Project_5_Alarm_oclock" target="blank"></a>
+<a href="https://github.com/pernebay-arailym/Project_6_Password_generator" target="blank"></a>
+
 
 - My projects made by Excel :
-<a href="" target="blank"></a>
+<a href="https://github.com/pernebay-arailym/Project_1_Excel_Bike_Sales" target="blank"></a>
 
 - My CV:
 <a href="https://docs.google.com/document/d/1mGEb0GVI1szqqPq1fS_6SJYphSwsRxWlvfO7gIIBVeo/edit?usp=sharing" target="blank">Data analyst CV</a>
