@@ -8,13 +8,19 @@
 - My portfolio
 <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a>
 
-- My projects made by Python: 
-<a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank">BMI Calculator</a>, 
-<a href="https://github.com/pernebay-arailym/Project_2_Automated_file_sorter" target="blank">Automated file Sorter</a>, 
-<a href="https://github.com/pernebay-arailym/Project_3_WebScraping_HTML" target="blank">Webscraping HTML</a>, 
-<a href="https://github.com/pernebay-arailym/Project_4_GameOfLife" target="blank">Game Of Live</a>, 
-<a href="https://github.com/pernebay-arailym/Project_5_Alarm_oclock" target="blank">Alarm O'Clock</a>, 
-<a href="https://github.com/pernebay-arailym/Project_6_Password_generator" target="blank">Password Generator</a>
+- My projects made by Python:
+- <div> <a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank">BMI Calculator</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_2_Automated_file_sorter" target="blank">Automated file Sorter</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_3_WebScraping_HTML" target="blank">Webscraping HTML</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_4_GameOfLife" target="blank">Game Of Live</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_5_Alarm_oclock" target="blank">Alarm O'Clock</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_6_Password_generator" target="blank">Password Generator</a> </div>
+
+
+
+ 
+
+
 
 
 - My projects made by Excel :
