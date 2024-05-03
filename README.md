@@ -15,6 +15,10 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_4_GameOfLife" target="blank">Game Of Live</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_5_Alarm_oclock" target="blank">Alarm O'Clock</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_6_Password_generator" target="blank">Password Generator</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_7_API" target="blank">Create API</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_8_ETL" target="blank">Build ETL</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
+
 
 
 
