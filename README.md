@@ -7,6 +7,12 @@
 
 - My portfolio
 <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a>
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Project_1_17000012747370/Dashboard1" target="blank">Genre Sales Bar</a>
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Customer_Sales_Analysis_Project_2/Dashboard1" target="blank">Customer Analysis</a>
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Netflix_Analysis_project_3_/Netflix" target="blank"> Netflix Analysis</a>
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/HR_Dashboard_Analysis_project_4_/HRANALYTICSDASHBOARD" target="blank">HR Analytics Dashboard</a>
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Creditcardcomplaintsdashboard_17049253606900/Dashboard1" target="blank">Credit Card Complains</a>
+<a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/ImmiGuideAnalysisDashboard/Dashboard2" target="blank">ImmiGuide Client Analysis</a>
 
 - My projects made by Python:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank">BMI Calculator</a> </div>
