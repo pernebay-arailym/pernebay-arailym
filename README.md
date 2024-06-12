@@ -13,6 +13,7 @@
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/HR_Dashboard_Analysis_project_4_/HRANALYTICSDASHBOARD" target="blank">HR Analytics Dashboard</a> <div>
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Creditcardcomplaintsdashboard_17049253606900/Dashboard1" target="blank">Credit Card Complains</a> <div>
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/ImmiGuideAnalysisDashboard/Dashboard2" target="blank">ImmiGuide Client Analysis</a> <div>
+- <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/TauxdePauvretdanslesAlpes-Maritimes_fin/Dashboard1" target="blank">Taux de Pauvreté dans les Alpes-Maritimes</a> <div>
 
 - My projects made by Python:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank">BMI Calculator</a> </div>
@@ -24,6 +25,9 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_7_API" target="blank">Create API</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_8_ETL" target="blank">Build ETL</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_9_DataScience_Pandas/blob/main/Sales_Analysis_Jup.ipynb" target="blank">Data Science sales analysis</a> </div>
+
+
 
 
 
