@@ -27,6 +27,10 @@
 - <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_9_DataScience_Pandas/blob/main/Sales_Analysis_Jup.ipynb" target="blank">Data Science sales analysis</a> </div>
 
+- My projects made by PowerBI:
+- <div> <a href="https://github.com/pernebay-arailym/Project_1_PowerBI" target="blank">Crédit Breton analysis</a> </div>
+
+
 
 
 
