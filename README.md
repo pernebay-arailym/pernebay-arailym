@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Immi Guide project**
 
-- My skills:
+  ## My skills:
 - **Collect and storage data:** SQL Server Reporting Services (PostgreSQL, PgAdmin4), ETL (Extract Transform and Load)
 - **Clean and prepare data:** Excel, Python (Pandas, Numpy, Psycopg2, Matplotlib) 
 - **IDE:** Jupyter Notebook, VS Code
@@ -15,7 +15,7 @@
 
    
 
-- My portfolio
+  ## My portfolio Tableau
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a> <div>
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Project_1_17000012747370/Dashboard1" target="blank">Genre Sales Bar</a> <div>
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Customer_Sales_Analysis_Project_2/Dashboard1" target="blank">Customer Analysis</a> <div>
@@ -25,7 +25,9 @@
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/ImmiGuideAnalysisDashboard/Dashboard2" target="blank">ImmiGuide Client Analysis</a> <div>
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/TauxdePauvretdanslesAlpes-Maritimes_fin/Dashboard1" target="blank">Taux de Pauvreté dans les Alpes-Maritimes</a> <div>
 
-- My projects made by Python:
+
+   
+  ## My projects made by Python:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank">BMI Calculator</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_2_Automated_file_sorter" target="blank">Automated file Sorter</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_3_WebScraping_HTML" target="blank">Webscraping HTML</a> </div>
@@ -36,29 +38,20 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_8_ETL" target="blank">Build ETL</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
 
-- My projects made by Python(Pandas, Psycopg2)
+  ## My projects made by Python(Pandas, Psycopg2):
 - <div> <a href="https://github.com/pernebay-arailym/Project_10_CSV_to_Database_DataScience/tree/main" target="blank">Import CSV to Postgres</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_9_DataScience_Pandas/blob/main/Sales_Analysis_Jup.ipynb" target="blank">Data Science sales analysis</a> </div>
 
-- My projects made by PowerBI:
+  ## My projects made by PowerBI:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_PowerBI" target="blank">Crédit Breton analysis</a> </div>
 
 
+  ## My projects made by Excel :
+- <a href="https://github.com/pernebay-arailym/Project_1_Excel_Bike_Sales" target="blank"> Excel Bike Sales</a>
 
 
-
-
-
- 
-
-
-
-
-- My projects made by Excel :
-<a href="https://github.com/pernebay-arailym/Project_1_Excel_Bike_Sales" target="blank"> Excel Bike Sales</a>
-
-- My CV:
-<a href="https://docs.google.com/document/d/1mGEb0GVI1szqqPq1fS_6SJYphSwsRxWlvfO7gIIBVeo/edit?usp=sharing" target="blank">Data analyst CV</a>
+  ## My CV:
+- <a href="https://docs.google.com/document/d/1mGEb0GVI1szqqPq1fS_6SJYphSwsRxWlvfO7gIIBVeo/edit?usp=sharing" target="blank">Data analyst CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
