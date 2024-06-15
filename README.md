@@ -50,8 +50,8 @@
 - <a href="https://github.com/pernebay-arailym/Project_1_Excel_Bike_Sales" target="blank"> Excel Bike Sales</a>
 
 
-  ## My CV:
-- <a href="https://docs.google.com/document/d/1mGEb0GVI1szqqPq1fS_6SJYphSwsRxWlvfO7gIIBVeo/edit?usp=sharing" target="blank">Data analyst CV</a>
+  ## Download MY CV:
+- <a href="https://github.com/pernebay-arailym/CV_Data_Analyst_Arailym_PERNEBAY.git" target="blank">Data analyst CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
