@@ -3,7 +3,27 @@
 
 - 🔭 I’m currently working on **Immi Guide project**
 
-- My skills: **Tableau, Excel, Pandas Numpy using Jupyter Notebook**
+- My skills:
+- **Collect and storage data:**
+- SQL Server Reporting Services (PostgreSQL, PgAdmin4)
+- ETL (Extract Transform and Load)
+-**Clean and prepare data:**
+- Excel
+- Python (Pandas, Numpy, Psycopg2, Matplotlib)
+-**IDE:**
+- Jupyter Notebook
+- VS Code 
+- **Visualisation:**
+- Tableau software
+- Power BI (DAX)
+-**Manage the project:**  
+- AGILE (KANBAN, SCRUM)
+-**CICD:**
+- GitHUB
+- Microsoft Azure DevOps
+-**Others:**
+- Docker 
+- Google Cloud Big Query
 
 - My portfolio
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a> <div>
