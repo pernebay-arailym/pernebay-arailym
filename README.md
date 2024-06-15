@@ -9,7 +9,7 @@
 - **IDE:** Jupyter Notebook, VS Code
 - **Visualisation:** Tableau software, Power BI (DAX)
 - **Manage the project:**  AGILE (KANBAN, SCRUM)
-- **CICD:** GitHUB, Microsoft Azure DevOps
+- **CI/CD:** GitHUB, Microsoft Azure DevOps
 - **Others:** Docker, Google Cloud Big Query
 
 
@@ -51,7 +51,7 @@
 
 
   ## Download MY CV:
-- <a href="https://github.com/pernebay-arailym/CV_Data_Analyst_Arailym_PERNEBAY.git" target="blank">Data analyst CV</a>
+- <a href="https://github.com/pernebay-arailym/CV_Data_Analyst_Arailym_PERNEBAY/blob/main/CV_Data_Analyst_Arailym_PERNEBAY.pdf" target="blank">Data analyst CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
