@@ -38,9 +38,11 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_8_ETL" target="blank">Build ETL</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
 
-  ## My projects made by Python(Pandas, Psycopg2):
+  ## My projects made by Python(Pandas, Psycopg2, Matplotlib):
 - <div> <a href="https://github.com/pernebay-arailym/Project_10_CSV_to_Database_DataScience/tree/main" target="blank">Import CSV to Postgres</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_9_DataScience_Pandas/blob/main/Sales_Analysis_Jup.ipynb" target="blank">Data Science sales analysis</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_11_DataVisualization_Matplotlib/tree/master" target="blank">Data Visualization Matplotlib</a> </div>
+
 
   ## My projects made by PowerBI:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_PowerBI" target="blank">Crédit Breton analysis</a> </div>
