@@ -27,7 +27,7 @@
 
 
    
-  ## My projects made by Python:
+  ## My projects made by Python((Pandas, NumPY, Psycopg2, Matplotlib)):
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_BMI_calculator" target="blank">BMI Calculator</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_2_Automated_file_sorter" target="blank">Automated file Sorter</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_3_WebScraping_HTML" target="blank">Webscraping HTML</a> </div>
@@ -36,12 +36,15 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_6_Password_generator" target="blank">Password Generator</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_7_API" target="blank">Create API</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_8_ETL" target="blank">Build ETL</a> </div>
-- <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
-
-  ## My projects made by Python(Pandas, Psycopg2, Matplotlib):
-- <div> <a href="https://github.com/pernebay-arailym/Project_10_CSV_to_Database_DataScience/tree/main" target="blank">Import CSV to Postgres</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_9_DataScience_Pandas/blob/main/Sales_Analysis_Jup.ipynb" target="blank">Data Science sales analysis</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_10_CSV_to_Database_DataScience/tree/main" target="blank">Import CSV to Postgres</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_11_DataVisualization_Matplotlib/tree/master" target="blank">Data Visualization Matplotlib</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_12_Visualization_Pandas_Matplotlib" target="blank">Gas Prices & FIFA</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_13_NumPy_Math_Statistics" target="blank">NumPY Math Statistics</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_14_Django_App_Postgres_Deploy" target="blank">Deploy Django App on Render</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_15_Customer_Segmentation_Clustering" target="blank">Customer Segmentation & Clustering</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_16_Economic_Data_Analysis" target="blank">Economic Data Analysis</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
 
 
   ## My projects made by PowerBI:
