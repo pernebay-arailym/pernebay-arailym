@@ -45,6 +45,8 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_15_Customer_Segmentation_Clustering" target="blank">Customer Segmentation & Clustering</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_16_Economic_Data_Analysis" target="blank">Economic Data Analysis</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_17_FreeCodeCamp" target="blank">FreeCodeCamp 5 Projects</a> </div>
+
 
 
   ## My projects made by PowerBI:
