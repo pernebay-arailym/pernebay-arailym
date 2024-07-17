@@ -46,6 +46,8 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_16_Economic_Data_Analysis" target="blank">Economic Data Analysis</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Code_On_Time_MERITIS" target="blank">Concours par Meritis</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_17_FreeCodeCamp" target="blank">FreeCodeCamp 5 Projects</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_18_HOMICIDE_Analysis" target="blank">Worldwide Homicide Analysis</a> </div>
+
 
 
 
