@@ -49,8 +49,7 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_18_HOMICIDE_Analysis" target="blank">Worldwide Homicide Analysis</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_19_London_Bike_Rides/tree/main" target="blank">London Bike Rides Analysis</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_20_Price_Prediction_MachineLearning" target="blank">House Price Prediction</a> </div>
-
-
+- <div> <a href="https://github.com/pernebay-arailym/Project_21_DataScience_Netflix" target="blank">Netflix Analysis DScience</a> </div>
 
 
   ## My projects made by PowerBI:
