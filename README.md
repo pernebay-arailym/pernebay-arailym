@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arailym</h1>
 <h3 align="center">A passionate Data Analyst in France</h3>
 
-- 🔭 I’m currently working on **Immi Guide project**
+- 🔭 I’m currently working on
+- **Immi Guide project as Data Analyst**
+- **CCAS in Cagnes-sur-Mer as Developer social links and supporter digital access**
 
   ## My skills:
 - **Collect and storage data:** SQL Server Reporting Services (PostgreSQL, PgAdmin4), ETL (Extract Transform and Load)
