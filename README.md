@@ -54,6 +54,7 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_21_DataScience_Netflix" target="blank">Netflix Analysis DScience</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_22_Web_Apps_Dashboard_Shiny" target="blank">Electronics Sales Analysis ShinyPython</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_23_FullStackApp_Python_JS" target="blank">FullStackApp_JS_Py</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_25_Quarto_Reports" target="blank">Country Analytics Querto</a> </div>
 
   ## My projects made by PowerBI:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_PowerBI" target="blank">Crédit Breton analysis</a> </div>
