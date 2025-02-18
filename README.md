@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arailym</h1>
-<h3 align="center">A passionate Data Analyst in France</h3>
+<h3 align="center">A passionate Data Analyst / Python Developer in France</h3>
 
 - 🔭 I’m currently working at:
 - **Immi Guide project as Data Analyst**
