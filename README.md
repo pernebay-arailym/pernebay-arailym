@@ -6,13 +6,13 @@
 - **CCAS in Cagnes-sur-Mer as Technical Support**
 
   ## My skills:
-- **Collect and storage data:** SQL Server Reporting Services (PostgreSQL, PgAdmin4), ETL (Extract Transform and Load)
-- **Clean and prepare data:** Excel, Python (Pandas, Numpy, Psycopg2, Matplotlib) 
-- **IDE:** Jupyter Notebook, VS Code
-- **Visualisation:** Tableau software, Power BI (DAX)
-- **Manage the project:**  AGILE (KANBAN, SCRUM)
-- **CI/CD:** GitHUB, Microsoft Azure DevOps
-- **Others:** Docker, Google Cloud Big Query
+- **Business Intelligence & Data Analysis:** Tableau, Power BI, Google Data Studio, Python, SQL, Pandas, NumPy, BigQuery
+- **Backend Development**: Django, FastAPI, Flask, REST API
+- **Database**: SQL Server, PostgreSQL, JSON
+- **Data Engineering:** ETL, Jupyter
+- **Automation:** BeautifulSoup, Requests
+- **DevOps & Cloud:** Docker, GitHub, Render, Azure DevOps, CI/CD
+- **Office & Frontend:** Microsoft Office, Google Suite, ReactJS
 
 
    
