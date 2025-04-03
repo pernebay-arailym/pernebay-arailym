@@ -68,7 +68,7 @@
 
 
   ## Download MY CV:
-- <a href="https://github.com/pernebay-arailym/CV_Data_Analyst_Arailym_PERNEBAY/blob/main/CV_Data_Analyst_Arailym_PERNEBAY.pdf" target="blank">Data analyst CV</a>
+- <a href="https://github.com/pernebay-arailym/cv-portfolio-ary/blob/main/CV_Ary_PERNEBAY_DA_eng.pdf" target="blank">Data analyst CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
