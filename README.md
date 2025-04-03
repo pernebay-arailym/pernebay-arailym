@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at:
 - **Immi Guide project as Data Analyst**
-- **CCAS in Cagnes-sur-Mer as Developer social links and supporter digital access**
+- **CCAS in Cagnes-sur-Mer as Technical Support**
 
   ## My skills:
 - **Collect and storage data:** SQL Server Reporting Services (PostgreSQL, PgAdmin4), ETL (Extract Transform and Load)
