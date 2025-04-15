@@ -4,6 +4,7 @@
 - 🔭 I’m currently working at:
 - **Immi Guide project as Data Analyst**
 - **CCAS in Cagnes-sur-Mer as Technical Support**
+- **Développeuse Web, Association Their Memory / Mission à distance, France**          
 
   ## My skills:
 - **Ingénierie des données & ETL:** ETL, Jupyter, SQL, Pandas, NumPy, Python, JSON, BigQuery
@@ -66,7 +67,7 @@
 
 
   ## Download MY CV:
-- <a href="https://github.com/pernebay-arailym/cv-portfolio-ary/blob/main/CV_Ary_PERNEBAY_DA_eng.pdf" target="blank">Data analyst CV</a>
+- <a href="https://github.com/pernebay-arailym/cv-portfolio-ary/blob/main/CV_Arailym_PERNEBAY_DE_Alt.pdf" target="blank">Data analyst CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
