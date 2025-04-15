@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Arailym</h1>
-<h3 align="center">A passionate Data Analyst / Python Developer in France</h3>
+<h3 align="center">A passionate Data Emgineer / Python Developer in France</h3>
 
 - 🔭 I’m currently working at:
 - **Immi Guide project as Data Analyst**
 - **CCAS in Cagnes-sur-Mer as Technical Support**
 
   ## My skills:
-- **Business Intelligence & Data Analysis:** Tableau, Power BI, Google Data Studio, Python, SQL, Pandas, NumPy, BigQuery
-- **Backend Development**: Django, FastAPI, Flask, REST API
-- **Database**: SQL Server, PostgreSQL, JSON
-- **Data Engineering:** ETL, Jupyter
-- **Automation:** BeautifulSoup, Requests
-- **DevOps & Cloud:** Docker, GitHub, Render, Azure DevOps, CI/CD
-- **Office & Frontend:** Microsoft Office, Google Suite, ReactJS
-
+- **Ingénierie des données & ETL:** ETL, Jupyter, SQL, Pandas, NumPy, Python, JSON, BigQuery
+- **Business Intelligence & Analyse de données:** Tableau, Power BI, Google Data Studio, SQL Server, PostgreSQL
+- **Développement Backend & APIs:** Python, Django, FastAPI, Flask, REST API
+- **Cloud & DevOps:** Docker, GitHub, Azure DevOps, CI/CD, Render
+- **Automatisation & Web Scraping:** BeautifulSoup, Requests
+- **Outils bureautiques & Frontend:** Microsoft Office, Google Suite, JavaScript, ReactJS
 
    
-
   ## My portfolio Tableau
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/vizzes" target="blank">Tableau Portfolio</a> <div>
 - <div> <a href="https://public.tableau.com/app/profile/arailym.pernebay/viz/Project_1_17000012747370/Dashboard1" target="blank">Genre Sales Bar</a> <div>
@@ -58,6 +55,7 @@
 - <div> <a href="https://github.com/pernebay-arailym/Project_27_Time_Series_Animations_Matplot" target="blank">Time_Series_Animation</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_28_FastAPI_Python" target="blank">FastAPI_Python</a> </div>
 - <div> <a href="https://github.com/pernebay-arailym/Project_29_REST_API_Python_Flask" target="blank">RestAPI_Flask</a> </div>
+- <div> <a href="https://github.com/pernebay-arailym/Project_30_Docker_SQL_Analyse" target="blank">Docker SQL Analysis</a> </div>
 
   ## My projects made by PowerBI:
 - <div> <a href="https://github.com/pernebay-arailym/Project_1_PowerBI" target="blank">Crédit Breton analysis</a> </div>
