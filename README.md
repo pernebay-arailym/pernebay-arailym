@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Engineer / Python Developer in France</h3>
 
 - 🔭 I’m currently working at:
-- **Immi Guide project as Data Analyst**
-- **CCAS in Cagnes-sur-Mer as Technical Support**
 - **Développeuse Web, Association Their Memory / Mission à distance, France**          
 
   ## My skills:
